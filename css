@@ -1,0 +1,58 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Poppins', sans-serif;
+  color: #1e1e1e;
+  background-color: white;
+}
+
+/* ===== HEADINGS ===== */
+h1, h2, h3 {
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+}
+
+/* ===== HEADER ===== */
+.header {
+  width: 100%;
+  background-color: white;
+  border-bottom: 1px solid #ccc;
+  padding: 10px 0;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+}
+
+/* ===== LOGO ===== */
+.logo-container {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.logo {
+  width: 50px;
+  height: auto;
+}
+
+/* ===== NAV LINKS ===== */
+.nav-links a {
+  text-decoration: none;
+  color: black;
+  font-family: 'Poppins', sans-serif;
+}
+
+/* ===== SECTIONS ===== */
+section {
+  margin: 30px auto;
+  max-width: 900px;
+  padding: 20px;
+}
+
+section p, section ul {
+  text-align: left;
+}
