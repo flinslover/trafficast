@@ -11,11 +11,15 @@
 <div class="header">
   <header>
     <nav>
-      <h1>TraffiCast <p1>---------------------------</p1>
-          <a href="#features">Features</a> |
-          <a href="#about">About Us</a> |
-          <a href="#contact">Contact Us</a>
-      </h1>
+      <div class="logo-container">
+        <img src="TRAFFICAST LOGO.png" alt="TraffiCast Logo" class="logo">
+        <h1>TraffiCast</h1>
+      </div>
+      <div class="nav-links">
+        <a href="#features">Features</a> |
+        <a href="#about">About Us</a> |
+        <a href="#contact">Contact Us</a>
+      </div>
     </nav>
   </header>
 </div>
